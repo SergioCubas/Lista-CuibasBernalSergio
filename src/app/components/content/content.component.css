@@ -1,0 +1,42 @@
+.card .card-header{
+    background-image: url(http://enmilocalfunciona.io/content/images/2020/03/PERRETE-A-IVI-01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: white;
+    height: 200px;
+}
+table tbody img{
+    width: 50px;
+}
+
+.btn-power{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.btn-power p{
+    margin: 0;
+    font-weight: bold;
+    color: #bb0d14;
+}
+
+.btn-power button{
+    background: none;
+    border: 1px solid #bb0d14;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    color: #bb0d14;
+}
+
+table.table th {
+    text-align: center;
+}
+
+table.table td {
+    text-align: center;
+}
